@@ -2,7 +2,7 @@
 A simple README introducing me and my academic background.
 Hi! I'm Shreya gardi
 I'm a 2nd year student pursuing B.tech in Computer Science 
-At D.Y Patil International University
+At D.Y Patil International University.
 
 ## Education
 College : D.Y patil International University
