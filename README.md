@@ -1,4 +1,4 @@
-# abt.me
+# Abt.me
 A simple README introducing me and my academic background.
 - Hi! I'm Shreya gardi
 I'm a 2nd year student pursuing B.tech in Computer Science 
@@ -22,11 +22,11 @@ Currently learning :
 - SQL
   
 ## Tools :
-git, github, VS code.
+- git, github, VS code.
 
 ## Contact
-Email : Shreyaa.gardi09@gmail.com
-Github : github.com/shreyaa333
+- Email : Shreyaa.gardi09@gmail.com
+- Github : github.com/shreyaa333
  
 
  
